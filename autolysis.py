@@ -1,7 +1,3 @@
-#Coded in colab
-
-!pip install pandas seaborn matplotlib numpy
-
 # /// script
 # requires-python = ">=3.9"
 # dependencies = [
