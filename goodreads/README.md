@@ -207,8 +207,4 @@ Below is the distribution plot of the first numerical column in the dataset:
 The analysis has provided insights into the dataset, including summary statistics, outlier detection, and correlations between key variables.
 The generated visualizations and statistical insights can help in understanding the patterns and relationships in the data.
 
-## Data Story
-Based on the data analysis, here is a creative narrative that interprets the findings in an engaging and detailed manner:
 
-## Story
-Failed to generate story.
