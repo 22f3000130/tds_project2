@@ -302,6 +302,10 @@ def main(csv_file):
     else:
         print("Error generating the README.md file.")
 
-csv_file = "Enter your dataset link"
-main(csv_file)
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) < 2:
+        print("Usage: uv run autolysis.py <dataset_path>")
+        sys.exit(1)
+    main(sys.argv[1])
 
